@@ -16,6 +16,10 @@ body{
 	justify-content:center;
 	align-items:center;
 	transition:0.4s ease-in-out;
+	width:250px;
+	height:auto;
+	padding:10px;
+	justify-content: space-around;
 }
 .hug:hover{
 	transform: scale(1.2);
