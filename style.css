@@ -11,8 +11,8 @@ body{
 }
 .hug{
 	display:inline-block;
-	margin-left:auto;
-	margin-right:auto;
+	margin-left:610px;
+	margin-right:610px;
 	justify-content:center;
 	align-items:center;
 	transition:0.4s ease-in-out;
