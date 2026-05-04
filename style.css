@@ -9,6 +9,17 @@ body{
     
     background-attachment: fixed;
 }
+.hug{
+	display:inline-block;
+	margin-left:620px;
+	margin-right:400px;
+	justify-content:center;
+	align-items:center;
+	transition:0.4s ease-in-out;
+}
+.hug:hover{
+	transform: scale(1.2);
+}
 h4 {
   -webkit-text-stroke: 0.7px black;
   text-shadow: 2px 2px 5px black;
