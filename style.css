@@ -19,7 +19,6 @@ body{
 	width:250px;
 	height:auto;
 	padding:10px;
-	justify-content: space-around;
 }
 .hug:hover{
 	transform: scale(1.2);
